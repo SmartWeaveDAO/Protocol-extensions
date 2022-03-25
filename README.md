@@ -1,2 +1,2 @@
 # Protocol-extensions
-A set of optional extensions for the base SmartWeave protocol
+A list of known protocol extensions with links to specs (or maybe the specs for the extensions should be also kept here)?
